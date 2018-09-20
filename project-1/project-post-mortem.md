@@ -85,8 +85,8 @@ utilities: {
 
 #### WDI Unit 1 Post Mortem
 1. What habits did I use during this unit that helped me?
-> Sleep
+> Sleep / Knowing when to 'retreat'
 2. What habits did I have during this unit that I can improve on?
-> Tendency to get distracted and work on 'non-critical' featurues 
+> Tendency to get distracted and work on 'non-critical' features 
 3. How is the overall level of the course during this unit? (instruction, course materials, etc.)
 > Sufficiently challenging - at least for the project - the exercises are mostly too simple?
