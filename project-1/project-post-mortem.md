@@ -22,6 +22,7 @@ Please answer the following questions. Take at least 30 minutes to prepare.
 
 1. What in my process and approach to this project went well that I would repeat next time?
 > Focus on incremental commits allows me to progress smoothly and spot bugs easily.
+> console.logging my functions to track their flow during coding
 --
 
 #### Code and Code Design
